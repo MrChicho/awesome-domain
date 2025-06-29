@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Rhystic Study",
+    "previous_price": 10.50,
+    "current_price": 14.25
+  },
+  {
+    "name": "Smothering Tithe",
+    "previous_price": 20.00,
+    "current_price": 26.50
+  }
+]

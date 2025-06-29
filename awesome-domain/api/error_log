@@ -1,0 +1,350 @@
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/04e0738b-b856-401e-8b41-096e2c48cf96): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/01ba455b-9cd4-4ba2-9bbf-d83b84dcc891): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/047de2fe-6fc1-40c5-98d4-6203b4a83445): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/04f35c75-4ede-4c23-867b-58d367f75fc8): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/045ce37b-86d2-4e56-84af-b6625b53d13c): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/07be53ef-c7b7-44fe-9754-b76871c6b55f): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/075cac04-9397-4edb-b49a-485dd58dcae1): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/02da8709-4228-4fed-9d2d-781e686661df): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:12 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/0749a9f8-934e-4376-8ace-69cae4cb619a): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:12 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/09ae899f-e5ac-4b67-abf2-d55ad9ae58f3): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/04e0738b-b856-401e-8b41-096e2c48cf96): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/01ba455b-9cd4-4ba2-9bbf-d83b84dcc891): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/047de2fe-6fc1-40c5-98d4-6203b4a83445): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/04f35c75-4ede-4c23-867b-58d367f75fc8): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/045ce37b-86d2-4e56-84af-b6625b53d13c): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/07be53ef-c7b7-44fe-9754-b76871c6b55f): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/075cac04-9397-4edb-b49a-485dd58dcae1): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/02da8709-4228-4fed-9d2d-781e686661df): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/0749a9f8-934e-4376-8ace-69cae4cb619a): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/09ae899f-e5ac-4b67-abf2-d55ad9ae58f3): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:16:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/04e0738b-b856-401e-8b41-096e2c48cf96): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/01ba455b-9cd4-4ba2-9bbf-d83b84dcc891): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/047de2fe-6fc1-40c5-98d4-6203b4a83445): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/04f35c75-4ede-4c23-867b-58d367f75fc8): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/045ce37b-86d2-4e56-84af-b6625b53d13c): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/07be53ef-c7b7-44fe-9754-b76871c6b55f): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/075cac04-9397-4edb-b49a-485dd58dcae1): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/02da8709-4228-4fed-9d2d-781e686661df): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/0749a9f8-934e-4376-8ace-69cae4cb619a): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/09ae899f-e5ac-4b67-abf2-d55ad9ae58f3): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 42
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 46
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 47
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 49
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 50
+[29-Jun-2025 12:17:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/foicyrte/public_html/api/top_edhrec.php on line 51
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $name in /home1/foicyrte/public_html/api/recent_cards.php on line 45
+[29-Jun-2025 12:17:56 America/Chicago] PHP Warning:  Undefined variable $data in /home1/foicyrte/public_html/api/recent_cards.php on line 46
+[29-Jun-2025 12:33:33 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Avatar+Aang+%2F%2F+Aang%2C+Master+of+Elements): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/recent_cards.php on line 34
+[29-Jun-2025 12:33:33 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Tendrils+of+Agony): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/recent_cards.php on line 34
+[29-Jun-2025 12:33:33 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Trinisphere): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/recent_cards.php on line 34
+[29-Jun-2025 12:33:33 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Venom%2C+Deadly+Devourer): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/recent_cards.php on line 34
+[29-Jun-2025 12:33:33 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Green+Goblin%2C+Nemesis): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/recent_cards.php on line 34
+[29-Jun-2025 12:33:33 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Grasping+Tentacles): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/recent_cards.php on line 34
+[29-Jun-2025 12:33:33 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Mountain): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/recent_cards.php on line 34
+[29-Jun-2025 12:33:34 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Sensational+Spider-Man): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/recent_cards.php on line 34
+[29-Jun-2025 12:33:34 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Doc+Ock%2C+Evil+Inventor): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/recent_cards.php on line 34
+[29-Jun-2025 12:33:34 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Swords+to+Plowshares): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 41
+[29-Jun-2025 12:33:34 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Pumpkin+Bombs): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/recent_cards.php on line 34
+[29-Jun-2025 12:33:34 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Swiftfoot+Boots): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 41
+[29-Jun-2025 12:33:34 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Lightning+Greaves): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 41
+[29-Jun-2025 12:33:34 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Path+of+Ancestry): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 41
+[29-Jun-2025 12:33:34 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Path+to+Exile): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 41
+[29-Jun-2025 12:33:34 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Evolving+Wilds): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 41
+[29-Jun-2025 12:33:34 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Fellwar+Stone): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 41
+[29-Jun-2025 12:33:34 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Cultivate): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 41
+[29-Jun-2025 12:33:34 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Counterspell): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 41
+[29-Jun-2025 12:33:34 America/Chicago] PHP Warning:  file_get_contents(https://api.scryfall.com/cards/named?fuzzy=Rogue%27s+Passage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/foicyrte/public_html/api/top_edhrec.php on line 41
