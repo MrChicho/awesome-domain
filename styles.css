@@ -1,0 +1,248 @@
+/* Background image and dark overlay */
+/*body {*/
+/*  margin: 0;*/
+/*  font-family: Arial, sans-serif;*/
+/*  color: white;*/
+/*  background: url('background.jpg') no-repeat center center fixed;*/
+/*  background-size: cover;*/
+/*  position: relative;*/
+/*}*/
+
+/*body::before {*/
+/*  content: '';*/
+/*  position: fixed;*/
+/*  top: 0; left: 0; right: 0; bottom: 0;*/
+/*  background: rgba(0, 0, 0, 0.7); /* Dark overlay */
+/*  z-index: -1;*/
+/*}*/
+
+/* General layout */
+/*h1, h2 {*/
+/*  text-align: center;*/
+/*  margin-top: 10px;*/
+/*}*/
+
+/*form {*/
+/*  display: flex;*/
+/*  justify-content: center;*/
+/*  margin-bottom: 20px;*/
+/*}*/
+
+/*input[type="text"] {*/
+/*  padding: 8px;*/
+/*  width: 250px;*/
+/*  border-radius: 4px;*/
+/*  border: none;*/
+/*  outline: none;*/
+/*}*/
+
+/*button {*/
+/*  padding: 8px 12px;*/
+/*  border: none;*/
+/*  background: #3498db;*/
+/*  color: white;*/
+/*  cursor: pointer;*/
+/*  border-radius: 4px;*/
+/*}*/
+
+/*button:hover {*/
+/*  background: #2980b9;*/
+/*}*/
+
+/* Card grid */
+/*.card-thumbnail {*/
+/*  position: relative;*/
+/*  text-align: center;*/
+/*  cursor: pointer;*/
+/*  display: inline-block;*/
+/*  margin-bottom: 20px;*/
+/*  max-width: 160px;*/
+/*  word-wrap: break-word;*/
+/*}*/
+
+/*.card-thumbnail img {*/
+/*  width: 150px;*/
+/*  border-radius: 4px;*/
+/*  transition: transform 0.3s ease;*/
+/*}*/
+
+/*.card-thumbnail:hover img {*/
+/*  transform: scale(1.05);*/
+/*}*/
+
+/* Card info under image */
+/*.card-info {*/
+/*  margin-top: 8px;*/
+/*  font-size: 14px;*/
+/*  line-height: 1.4;*/
+/*}*/
+
+/*.card-info p {*/
+/*  margin: 4px 0;*/
+/*}*/
+
+/* Popup preview */
+/*.card-popup {*/
+/*  display: none;*/
+/*  position: absolute;*/
+/*  top: 180px;*/
+/*  left: 50%;*/
+/*  transform: translateX(-50%);*/
+/*  z-index: 10;*/
+/*  background: rgba(0, 0, 0, 0.95);*/
+/*  padding: 6px;*/
+/*  border-radius: 6px;*/
+/*  box-shadow: 0 0 12px rgba(0,0,0,0.9);*/
+/*  width: 320px;*/
+/*}*/
+
+/*.card-popup img {*/
+/*  width: 100%;*/
+/*  border-radius: 4px;*/
+/*  margin-bottom: 10px;*/
+/*}*/
+
+/*.card-thumbnail:hover .card-popup,*/
+/*.card-thumbnail.show-popup .card-popup {*/
+/*  display: block;*/
+/*}*/
+
+/* Responsive layout */
+/*@media (max-width: 600px) {*/
+/*  .card-popup {*/
+/*    width: 90vw;*/
+/*    top: auto;*/
+/*    bottom: -360px;*/
+/*    transform: translateX(-50%);*/
+/*  }*/
+/*}*/
+
+
+
+/* === Background and Overlay === */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: white;
+  background: url('/images/background.jpg') repeat;
+  /*background-size: cover;*/
+  position: relative;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: -1;
+}
+
+/* === Typography & Layout === */
+h1, h2 {
+  text-align: center;
+  margin: 20px 0 10px;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  padding: 8px;
+  width: 250px;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+}
+
+button {
+  padding: 8px 12px;
+  border: none;
+  background: #3498db;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: #2980b9;
+}
+
+/* === Card Grid Layout === */
+.card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 10px 20px;
+}
+
+/* === Card Thumbnail with Popup === */
+.card-thumbnail {
+  position: relative;
+  text-align: center;
+  cursor: pointer;
+  max-width: 150px;
+}
+
+.card-thumbnail img {
+  width: 100%;
+  border-radius: 4px;
+  transition: transform 0.3s ease;
+}
+
+.card-thumbnail:hover img {
+  transform: scale(1.05);
+}
+
+.card-popup {
+  display: none;
+  position: absolute;
+  top: 170px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.95);
+  padding: 6px;
+  border-radius: 6px;
+  z-index: 10;
+  box-shadow: 0 0 10px rgba(0,0,0,0.8);
+}
+
+.card-popup img {
+  width: 300px;
+  border-radius: 4px;
+}
+
+/* Show popup */
+.card-thumbnail:hover .card-popup,
+.card-thumbnail.show-popup .card-popup {
+  display: block;
+}
+
+/* === Card Info Text === */
+.card-info {
+  font-size: 14px;
+  margin-top: 4px;
+  line-height: 1.4;
+  word-wrap: break-word;
+}
+
+/* Handle long card names */
+.card-info p.card-name {
+  font-weight: bold;
+  max-width: 150px;
+  margin: 4px auto 2px;
+  line-height: 1.1;
+  white-space: normal;
+  overflow-wrap: break-word;
+  text-align: center;
+}
+
+/* Responsive layout */
+@media (max-width: 600px) {
+  .card-popup img {
+    width: 90vw;
+  }
+}
